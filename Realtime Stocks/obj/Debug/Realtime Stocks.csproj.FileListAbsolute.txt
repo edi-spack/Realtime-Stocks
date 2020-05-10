@@ -1,0 +1,10 @@
+C:\Users\edisp\source\repos\Realtime Stocks\Realtime Stocks\obj\Debug\Realtime_Stocks.Form1.resources
+C:\Users\edisp\source\repos\Realtime Stocks\Realtime Stocks\obj\Debug\Realtime_Stocks.Properties.Resources.resources
+C:\Users\edisp\source\repos\Realtime Stocks\Realtime Stocks\obj\Debug\Realtime Stocks.csproj.GenerateResource.cache
+C:\Users\edisp\source\repos\Realtime Stocks\Realtime Stocks\obj\Debug\Realtime Stocks.csproj.CoreCompileInputs.cache
+C:\Users\edisp\source\repos\Realtime Stocks\Realtime Stocks\bin\Debug\Realtime Stocks.exe.config
+C:\Users\edisp\source\repos\Realtime Stocks\Realtime Stocks\bin\Debug\Realtime Stocks.exe
+C:\Users\edisp\source\repos\Realtime Stocks\Realtime Stocks\bin\Debug\Realtime Stocks.pdb
+C:\Users\edisp\source\repos\Realtime Stocks\Realtime Stocks\obj\Debug\Realtime Stocks.exe
+C:\Users\edisp\source\repos\Realtime Stocks\Realtime Stocks\obj\Debug\Realtime Stocks.pdb
+C:\Users\edisp\source\repos\Realtime Stocks\Realtime Stocks\obj\Debug\Realtime Stocks.csprojAssemblyReference.cache
